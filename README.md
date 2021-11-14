@@ -1,3 +1,3 @@
-- 👋 Olá, Bem vindo!
-- 🌱 Estudando Pyton e HTML.
-- 📫 Entre em contato comigo pelo meu email: bluesmanvi6@gmail.com
+-  👋 Olá, Bem vindo!
+-  🌱 Estudando Pyton e HTML.
+-  📫 Entre em contato comigo pelo meu email: bluesmanvi6@gmail.com
