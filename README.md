@@ -1,3 +1,4 @@
--  👋 Olá, Bem vindo!
--  🌱 Estudando Python, HTML e CSS.
--  📫 Entre em contato comigo pelo meu email: bluesmanvi6@gmail.com
+-  👋 Olá, Bem vindo(a)!
+-  🌱 Tenho conhecimentops sobre Python, HTML e CSS.
+-  📚 Estudando Javascript e Java.
+-  📫 Entre em contato comigo pelo meu email: dvgs24012004@gmail.com
